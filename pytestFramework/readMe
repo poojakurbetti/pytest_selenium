@@ -1,0 +1,9 @@
+Import this project in pycharm ide
+clone the repo
+install all the packages in reequirements.txt
+This is a basic pytest POM based framework
+to run via command line : pytest tests/test_landingPage.py -v --html=./evergreen.html
+This framework has 3 packages
+config -- contains the base test data
+pages -- contains pages and basic util methods (POM based)
+tests -- the test implementations
